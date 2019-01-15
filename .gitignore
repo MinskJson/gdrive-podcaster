@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# gdrive staff
+/bin
+token.json
+credentials.json
+public
